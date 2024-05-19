@@ -11,7 +11,7 @@ markdown
   
 ## 技术栈  
   
-- sql语句
+- sql
 - javaswing
 - javajdbc
   
