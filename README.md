@@ -40,7 +40,7 @@ login.class
   
 ## 配置文件说明  
   
--嗯就是那个javax.xml.bind.jar和sqljdbc42.jar是必要的驱动
+嗯就是那个javax.xml.bind.jar和sqljdbc42.jar是必要的驱动
   
 ## 测试  
   
